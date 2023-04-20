@@ -230,5 +230,5 @@ class Dircmp:
     
 
 if __name__ == "__main__":
-    ob = Dircmp('E:\\v1', 'D:\\v1')
+    ob = Dircmp('C:\Users\students\Desktop\dinesh', 'C:\Users\students\Desktop\mrinal')
     ob.sync()
